@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available on
 
-In the project directory, you can run:
+[https://react-chat-app-client.vercel.app/](https://react-chat-app-client.vercel.app/)
 
 ### `npm start`
 
